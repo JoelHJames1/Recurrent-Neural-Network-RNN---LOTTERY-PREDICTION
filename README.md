@@ -1,4 +1,4 @@
-RNN stands for Recurrent Neural Network, which is a type of artificial neural network designed to recognize patterns in sequences of data, such as text, genomes, handwriting, or spoken words. Unlike a traditional neural network, which processes inputs independently, an RNN can use its internal state (memory) to process a sequence of inputs, which allows it to exhibit temporal dynamic behavior.
+**RNN** stands for **Recurrent Neural Network**, which is a type of artificial neural network designed to recognize patterns in sequences of data, such as text, genomes, handwriting, or spoken words. Unlike a traditional neural network, which processes inputs independently, an RNN can use its internal state (memory) to process a sequence of inputs, which allows it to exhibit temporal dynamic behavior.
 
 The term "recurrent" comes from the loops in the network, which create a 'recurrence' in the network's operation, effectively forming a connection in time. This makes them exceptionally useful for tasks where context from earlier inputs is required to understand later ones, like language processing.
 
@@ -14,10 +14,10 @@ Sentiment analysis
 
 
 
-How it works?
+**How it works?**
 
 
-This is a script that uses a Recurrent Neural Network (RNN) model, specifically a type of RNN called Long Short Term Memory (LSTM), to predict lottery numbers.
+The following scripts use  **Recurrent Neural Network (RNN) model**, specifically a type of RNN called Long Short Term Memory (LSTM), to predict lottery numbers.
 
 The script works as follows:
 
